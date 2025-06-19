@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg_makanan {
+    background-image: url('/images/bg_makanan.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
